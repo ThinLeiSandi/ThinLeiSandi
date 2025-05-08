@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThinLeiSandi
-- 💁‍♀️ I’m a student at University of Information Technology.
-- 🌱 I’m currently learning Python, HTML, and JS. 
+- 💁‍♀️ I’m currently studying Computer Science at Ton Duc Thang University, HCMC.
+- 🌱 
 - 📫 How to reach me <a href= "https://www.facebook.com/thin.lei.1650">Facebook</a> 
 - 📩 <a href="mailto:thinlei.ori16@gmail.com">Send email</a>
 
